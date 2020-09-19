@@ -1,2 +1,2 @@
 # react-event-calendar
-A dynamic calendar for custom event
+A dynamic calendar for custom events
